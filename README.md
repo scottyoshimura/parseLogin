@@ -1,2 +1,3 @@
 # parseLoginModule
 an iOS swift login module with error messaging using parse
+you will need to provide your own key and applicationID
